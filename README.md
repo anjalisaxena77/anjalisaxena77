@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 **Hi there! I'm Anjali Saxena**
 
-<!--
-**anjalisaxena77/anjalisaxena77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Research and Development Intern** | 🧮 **Aspiring Data Analyst** | 📊 **Business Analyst Enthusiast**
 
-Here are some ideas to get you started:
+I am passionate about leveraging data insights to drive informed decision-making processes. With a comprehensive skill set in data analysis and business analysis domains, I am eager to contribute to organizational growth through my expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Skill Set:**
+- **Data Analysis:** Proficient in MySQL and Advanced Excel
+- **Programming:** Strong foundation in Python
+- **Data Visualization:** Skilled in Power BI
+
+### **About Me:**
+I am committed to utilizing my skills to drive success and contribute to your team. I am actively seeking entry-level roles in data analysis or business analysis to further develop my expertise and make meaningful contributions.
+
+💼 Open to discussing potential opportunities and collaborations. Feel free to reach out—I am eager to connect and contribute to your success!
